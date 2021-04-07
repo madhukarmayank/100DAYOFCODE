@@ -26,4 +26,7 @@ Working with Tables |
 
 # Images in HTML
 1. <a href="https://www.w3schools.com/tags/tag_img.asp">https://www.w3schools.com/tags/tag_img.asp</a>
-2. 
+2. <a href="https://www.youtube.com/watch?v=z6H22xGAZEA>https://www.youtube.com/watch?v=z6H22xGAZEA</a>
+
+# Output
+![Image of Day -2](https://github.com/madhukarmayank/100DAYOFCODE/blob/main/Day%20-2/img%20output.jpg)
