@@ -1,6 +1,6 @@
 # <div align="center" >DAY - 2</div>
 
-# HTML
+# <div align="center">HTML</div>
 
 
 ## Todo
