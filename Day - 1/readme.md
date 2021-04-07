@@ -1,4 +1,7 @@
 # <div align="center" >DAY - 1</div>
+
+# <div align="center">HTML</div>
+
 # HTML Page Structure
 ![Image of Day-1](https://github.com/madhukarmayank/100DAYOFCODE/blob/main/Day%20-%201/img.jpg)
 
