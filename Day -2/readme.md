@@ -30,3 +30,10 @@ Working with Tables |
 
 # Output
 ![Image of Day -2](https://github.com/madhukarmayank/100DAYOFCODE/blob/main/Day%20-2/img%20output.jpg)
+
+# Working with Tables
+1. <a href="https://www.w3schools.com/html/html_tables.asp">https://www.w3schools.com/html/html_tables.asp</a>
+2. <a href="https://www.youtube.com/watch?v=w2inJrRGC9c">https://www.youtube.com/watch?v=w2inJrRGC9c</a>
+
+# OutPut 
+![Image of Day -2](https://github.com/madhukarmayank/100DAYOFCODE/blob/main/Day%20-2/table.jpg)
