@@ -1,1 +1,20 @@
+# <div align="center" >DAY - 3</div>
+# <div align="center">HTML</div>
 
+## Todo
+Forms in HTML | 
+------------ | 
+Creating a Contact Form |
+Creating a Login Form |
+Creating a Registration Form |
+
+# Resources
+
+# Forms in HTML
+1. <a href="https://www.w3schools.com/html/html_forms.asp">https://www.w3schools.com/html/html_forms.asp</a>
+2. <a href="https://www.tutorialspoint.com/html/html_forms.htm">https://www.tutorialspoint.com/html/html_forms.htm</a>
+3. <a href="https://www.youtube.com/watch?v=D4jj3HHrnSU">https://www.youtube.com/watch?v=D4jj3HHrnSU</a>
+4. <a href="https://www.youtube.com/watch?v=HTf-gPLWuUA">https://www.youtube.com/watch?v=HTf-gPLWuUA</a>
+
+# Output
+![Image of Day -2](https://github.com/madhukarmayank/100DAYOFCODE/blob/main/Day%20-3/form%20output.jpg)
