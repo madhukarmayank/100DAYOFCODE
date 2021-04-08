@@ -38,4 +38,4 @@ Creating a Registration Form |
 3. <a href="https://www.youtube.com/watch?v=D4jj3HHrnSU&t=26s">https://www.youtube.com/watch?v=D4jj3HHrnSU&t=26s</a>
 
 # Output
-1[Image of Day -3](https://github.com/madhukarmayank/100DAYOFCODE/blob/main/Day%20-3/Registration%20Form%20output.jpg)
+[Image of Day -3](https://github.com/madhukarmayank/100DAYOFCODE/blob/main/Day%20-3/Registration%20Form%20output.jpg)
