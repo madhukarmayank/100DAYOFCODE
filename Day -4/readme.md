@@ -26,7 +26,7 @@ HTML div Tag |
 1. <a href="https://www.w3schools.com/tags/tag_video.asp">https://www.w3schools.com/tags/tag_video.asp</a>
 
 # Output 
-![Image of Day -4](github.com/madhukarmayank/100DAYOFCODE/blob/main/Day%20-4/video%20output.jpg)
+![Image of Day -4](https://github.com/madhukarmayank/100DAYOFCODE/blob/main/Day%20-4/video%20output.jpg)
 
 # HTML Attribute
 1. <a href="https://www.w3schools.com/tags/ref_attributes.asp">https://www.w3schools.com/tags/ref_attributes.asp</a>
